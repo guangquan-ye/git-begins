@@ -1,8 +1,7 @@
-note de test pour crée un conflit de merge
-1
-2
-3
-4
-5
-6
- add-create-branch-command
+git clone 
+git add
+git commit -m
+git push
+git pull
+git branch
+git checkout
