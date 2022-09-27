@@ -1,7 +1,5 @@
-git clone https://github.com/guangquan-ye/git-begins.git
-git add "files"
-git commit -m "message de la manip"
-git push
-git pull
-git branch "add-create-branch-command"
-git checkout "add-create-branch-command"
+note de test pour crée un conflit de merge
+1
+2
+3
+4
