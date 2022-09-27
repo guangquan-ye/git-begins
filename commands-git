@@ -1,6 +1,8 @@
-git clone https://github.com/guangquan-ye/git-begins.git
-git add "files"
-git commit -m "message de la manip"
-git push
-git pull
-teaaaa
+note de test pour crée un conflit de merge
+1
+2
+3
+4
+5
+6
+ add-create-branch-command
