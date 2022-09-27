@@ -1,7 +1,6 @@
+HEAD
 git clone https://github.com/guangquan-ye/git-begins.git
 git add "files"
 git commit -m "message de la manip"
 git push
 git pull
-
-
